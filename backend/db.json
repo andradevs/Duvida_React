@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur Oliveira",
+      "emai": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia",
+      "emai": "mjds@empresa.com"
+    },
+    {
+      "name": "Guilherme Andrade Vieira da Silva",
+      "email": "guiguk9@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Gold",
+      "email": "guiguprofeta@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "dasda",
+      "email": "eqweqweq",
+      "id": 5
+    },
+    {
+      "name": "dsad",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 8
+    }
+  ]
+}
